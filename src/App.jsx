@@ -14,12 +14,9 @@ const CONTACTS = [
 
 const WHATSAPP_NUMBER = "918857001206";
 
-const MAPS_URL =
-  "https://www.google.com/maps/dir/?api=1&destination=" +
-  encodeURIComponent(
-    "Shri Om Electrical, Purna, Parbhani, Maharashtra, India"
-  );
 
+const MAPS_URL =
+  "https://www.google.com/maps/dir/?api=1&destination=19.1828647%2C77.023073";
 
 const products = [
   {
